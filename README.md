@@ -10,11 +10,11 @@ requirements are here.
 
 ```py
 import pycord  # to Make Discord Bot
-import json    # to
+import json    # to Edit JSON files
 import sys
-import os
-import asyncio
-import base64
+import os      # to Delete, Create Files
+import asyncio # to Make Waiting time.
+import base64  # to encryption Data.
 ```
 
 ## Developers
