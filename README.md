@@ -1,6 +1,7 @@
 ----
-
+<h1 style="text-align: center;"><img width="10rem" height=auto src="UengLG_transparentBG.png"></h1>
 # Advencord - the Greatest Game Bot in Discord.
+----
 
 this app maded pycord in python.
 
